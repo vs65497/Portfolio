@@ -19,7 +19,6 @@ I am an electrical engineer passionate about developing hardware-based approache
     - Video: [Progress Update 2, 2023](https://www.youtube.com/watch?v=-XCVgsTe5O8)
     - Video: [Progress Update 1, 2022](https://www.youtube.com/watch?v=7hT9oZhGcco)
     - PPT: [Individual Contribution (Brief)](https://drive.google.com/file/d/1cgP-LLTiAtr5jk4ZOi2hmmDbhJTNPWQP/view?usp=drive_link)
-    - 2024 Website - https://legacyrobotics.org/
 
 3. **[Tactile Sensor with ML Pipeline](https://github.com/vs65497/Tactile-Sensor)**  
 

@@ -8,16 +8,16 @@ I am an electrical engineer passionate about developing hardware-based approache
 
     This project was my introduction to state-space control theory, centered on the classical challenge of stabilizing an inverted pendulum. Over approximately nine weeks, I independently implemented a working system that combined nonlinear Lyapunov control and state-space feedback on custom-built hardware. The project involved full-stack engineering: mechanical design, ODrive-based motor control, embedded software in C/C++, and scripting in Python and Bash.
 
-    *Skills:* Control theory, embedded systems, real-time programming.
+    *Skills:* Control theory, embedded systems, motor control, mechanism design (SolidWorks, CSWA), dynamics.
 
 2. **[RoboMaster Competition Team](https://www.youtube.com/watch?v=-XCVgsTe5O8)**  
 
     In June 2022, I founded a RoboMaster competition team. As team lead, I wore many hats ranging from engineering, to business and marketing, and accounting. I wrote grant proposals, recruited members, trained members, and so forth. The team remains active and continues to grow.
 
-   *Skills:* Systems design & integration, CAD design, project management.	
+   *Skills:* Systems design & integration, mechanism design (OnShape), project management.	
     - Video: [Year One - Milestones of 2023](https://www.youtube.com/watch?v=-XCVgsTe5O8)
     - Video: [Pre-Season Prototyping (2022)](https://www.youtube.com/watch?v=7hT9oZhGcco)
-    - PPT: [Individual Contributor (Progress Report)](https://drive.google.com/file/d/1cgP-LLTiAtr5jk4ZOi2hmmDbhJTNPWQP/view?usp=drive_link)
+    - PPT: [Individual Contribution (Brief)](https://drive.google.com/file/d/1cgP-LLTiAtr5jk4ZOi2hmmDbhJTNPWQP/view?usp=drive_link)
     - PDF: 2024 UROP Grant Proposal (**Accepted**) (Available on request)
     - Website - https://legacyrobotics.org/
 
@@ -27,7 +27,7 @@ I am an electrical engineer passionate about developing hardware-based approache
     - To study machine learning. Particularly YOLOv5 (computer vision) and tabular prediction via a single layer deep neural network.
     - To create a prototype sensing pipeline which would allow a robotic manipulator to model grasped objects.
   
-    *Skills:* Sensor design, machine learning, signal processing.
+    *Skills:* Sensor design, machine learning.
 
 4. **[Optimization & Reinforcement Learning Experiments](https://github.com/vs65497/Optimizers/blob/main/OptSummary.ipynb)**  
 
@@ -35,14 +35,14 @@ I am an electrical engineer passionate about developing hardware-based approache
   
     *Skills:* Optimization, Python, numerical methods.
 
-6. **[Reproduction: Emergent brain-like complexity from nanowire atomic switch networks (Available on request)](https://github.com/vs65497/Portfolio/#)**  
+5. **[Emergent brain-like complexity from nanowire atomic switch networks](https://github.com/vs65497/Portfolio/#)** (Independent reproduction study of Kuncic et al.; WIP)  
 
-    Modeling emergent dynamics of physical networks for reservoir computing, inspired by Kuncic et al. (2018).  
+    Attempted to reproduce the findings of Kuncic et al. using a simulation of an Ag₂S nanowire network and low-voltage input encoding.  
   
-    *Skills:* Graph theory, scientific simulation, C++/Python.
+    *Skills:* Graph theory, C++/Python.
 
-8. **[Reproduction: Coordinated Control of Multi-Robot Systems](https://github.com/vs65497/Swarm-Coordinated-Control)**  
+6. **[Coordinated Control of Multi-Robot Systems](https://github.com/vs65497/Swarm-Coordinated-Control)** (Reproduction study)  
 
-    Agent-based simulation exploring adjacency-driven interactions and emergent patterns. Inspired by Jorge Cortés & Magnus Egerstedt (2017). 
+    Reproduced key dynamics of multi-robot coordination in simulation. Original work from Jorge Cortés & Magnus Egerstedt (2017). 
   
-    *Skills:* Complex systems, Python, graph modeling.
+    *Skills:* Graph theory, Python.

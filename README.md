@@ -12,7 +12,7 @@ I am an electrical engineer passionate about developing hardware-based approache
 
 2. **[RoboMaster Competition Team](https://www.youtube.com/watch?v=-XCVgsTe5O8)**  
 
-    In June 2022, I founded Legacy Robotics, the first RoboMaster North America (RMNA) team at UC Irvine. As team lead, I wore many hats ranging from engineering, to business and marketing, and accounting. I wrote grant proposals, recruited members, trained members, and so forth. The team remains active and continues to grow.
+    In June 2022, I founded a RoboMaster competition team. As team lead, I wore many hats ranging from engineering, to business and marketing, and accounting. I wrote grant proposals, recruited members, trained members, and so forth. The team remains active and continues to grow.
 
    *Skills:* Systems design & integration, CAD design, project management.	
     - Video: [Year One - Milestones of 2023](https://www.youtube.com/watch?v=-XCVgsTe5O8)

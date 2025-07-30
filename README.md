@@ -34,7 +34,7 @@ I am an electrical engineer passionate about developing hardware-based approache
   
     *Skills:* Optimization, Python, numerical methods.
 
-5. **[Coordinated Control of Multi-Robot Systems](https://github.com/vs65497/Swarm-Coordinated-Control)**, 2023 (Reproduction study)  
+5. **[Coordinated Control of Multi-Robot Systems](https://github.com/vs65497/Swarm-Coordinated-Control)**, 2022 (Reproduction study)  
 
     Reproduced key dynamics of multi-robot coordination in simulation. Original work from Jorge Cortés & Magnus Egerstedt (2017). 
   

@@ -21,7 +21,7 @@ I am an electrical engineer passionate about developing hardware-based approache
     - PPT: [Individual Contribution (Brief)](https://drive.google.com/file/d/1cgP-LLTiAtr5jk4ZOi2hmmDbhJTNPWQP/view?usp=drive_link)
     - Website - https://legacyrobotics.org/
 
-4. **[Tactile Sensor with ML Pipeline](https://github.com/vs65497/Tactile-Sensor)**  
+3. **[Tactile Sensor with ML Pipeline](https://github.com/vs65497/Tactile-Sensor)**  
 
     Designed a tactile sensing module and implemented a PyTorch classifier pipeline for contact force inference. Goals of this project were:
     - To study machine learning. Particularly YOLOv5 (computer vision) and tabular prediction via a single hidden-layer deep neural network.
@@ -29,20 +29,20 @@ I am an electrical engineer passionate about developing hardware-based approache
   
     *Skills:* Sensor design, machine learning.
 
-5. **[Optimization & Reinforcement Learning Experiments](https://github.com/vs65497/Optimizers/blob/main/OptSummary.ipynb)**  
+4. **[Optimization & Reinforcement Learning Experiments](https://github.com/vs65497/Optimizers/blob/main/OptSummary.ipynb)**  
 
     Implemented LP and QP solvers, forward-mode auto-differentiation, and tested policy-based control scenarios (Frozen Lake with Reinforcement Learning).  
   
     *Skills:* Optimization, Python, numerical methods.
+
+5. **[Coordinated Control of Multi-Robot Systems](https://github.com/vs65497/Swarm-Coordinated-Control)** (Reproduction study)  
+
+    Reproduced key dynamics of multi-robot coordination in simulation. Original work from Jorge Cortés & Magnus Egerstedt (2017). 
+  
+    *Skills:* Graph theory, Python.
 
 6. **[Emergent brain-like complexity from nanowire atomic switch networks](https://github.com/vs65497/Portfolio/#)** (Independent reproduction study of Kuncic et al.; WIP)  
 
     Attempted to reproduce the findings of Kuncic et al. using a simulation of an Ag₂S nanowire network and low-voltage input encoding.  
   
     *Skills:* Graph theory, C++/Python.
-
-7. **[Coordinated Control of Multi-Robot Systems](https://github.com/vs65497/Swarm-Coordinated-Control)** (Reproduction study)  
-
-    Reproduced key dynamics of multi-robot coordination in simulation. Original work from Jorge Cortés & Magnus Egerstedt (2017). 
-  
-    *Skills:* Graph theory, Python.

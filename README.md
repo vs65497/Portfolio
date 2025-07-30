@@ -12,14 +12,14 @@ I am an electrical engineer passionate about developing hardware-based approache
 
 2. **[RoboMaster Competition Team](https://www.youtube.com/watch?v=-XCVgsTe5O8)**  
 
-    In June 2022, I founded a RoboMaster competition team. As team lead, I wore many hats ranging from engineering, to business and marketing, and accounting. I wrote grant proposals, recruited members, trained members, and so forth. The team remains active and continues to grow.
+    Founded a RoboMaster competition team (2022). Performed multiple roles including engineering and design, business and marketing, accounting. Wrote grant proposals, recruited members, trained members, etc. The team remains active today.
 
    *Skills:* Systems design & integration, mechanism design (OnShape), project management.
     - PDF: UROP Grant Proposal, 2024 (**Accepted**) (Available on request)
     - Video: [Progress Update 2, 2023](https://www.youtube.com/watch?v=-XCVgsTe5O8)
     - Video: [Progress Update 1, 2022](https://www.youtube.com/watch?v=7hT9oZhGcco)
     - PPT: [Individual Contribution (Brief)](https://drive.google.com/file/d/1cgP-LLTiAtr5jk4ZOi2hmmDbhJTNPWQP/view?usp=drive_link)
-    - Website - https://legacyrobotics.org/
+    - 2024 Website - https://legacyrobotics.org/
 
 3. **[Tactile Sensor with ML Pipeline](https://github.com/vs65497/Tactile-Sensor)**  
 

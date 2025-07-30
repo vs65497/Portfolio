@@ -6,7 +6,7 @@ I am an electrical engineer passionate about developing hardware-based approache
 ## Featured Projects (6 Projects)
 1. **[Inverted Pendulum (LQR + Lyapunov)](https://github.com/vs65497/InvertedPendulum/blob/main/README.md)**
 
-    This project was my introduction to state-space control theory, centered on the classical challenge of stabilizing an inverted pendulum. Over approximately nine weeks, I independently implemented a working system that combined nonlinear Lyapunov control and state-space feedback on custom-built hardware. The project involved full-stack engineering: mechanical design, ODrive-based motor control, embedded software in C/C++, and scripting in Python and Bash.
+    Independently implemented an inverted pendulum which combined a nonlinear Lyapunov controller (to swing the pendulum to its up-position) and a state-space LQR controller to regulate at the balanced position. The rig was designed, built, and tuned in one-shot, on a 9-week deadline. The project involved full-stack engineering: electro-mechanical design, ODrive motor control, embedded software in C/C++, and scripting in Python and Bash.
 
     *Skills:* Control theory, embedded systems, motor control, mechanism design (SolidWorks, CSWA), dynamics.
 

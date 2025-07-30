@@ -28,7 +28,7 @@ I am an electrical engineer passionate about developing hardware-based approache
   
     *Skills:* Sensor design, machine learning.
 
-4. **[Optimization & Reinforcement Learning Experiments](https://github.com/vs65497/Optimizers/blob/main/OptSummary.ipynb)**, 2023  
+4. **[Optimization & Reinforcement Learning Experiments](https://github.com/vs65497/Optimizers/blob/main/OptSummary.ipynb)**, 2022  
 
     Implemented LP and QP solvers, forward-mode auto-differentiation, and tested policy-based control scenarios ("Frozen Lake" game with Reinforcement Learning).  
   

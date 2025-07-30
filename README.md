@@ -35,14 +35,14 @@ I am an electrical engineer passionate about developing hardware-based approache
   
     *Skills:* Optimization, Python, numerical methods.
 
-6. **[Ag₂S Nanowire Network Simulation (Available on request)](https://github.com/vs65497/Portfolio/#)**  
+6. **[Reproduction: Emergent brain-like complexity from nanowire atomic switch networks (Available on request)](https://github.com/vs65497/Portfolio/#)**  
 
     Modeling emergent dynamics of physical networks for reservoir computing, inspired by Kuncic et al. (2018).  
   
     *Skills:* Graph theory, scientific simulation, C++/Python.
 
-8. **[Swarm Simulation](https://github.com/vs65497/Swarm-Coordinated-Control)**  
+8. **[Reproduction: Coordinated Control of Multi-Robot Systems](https://github.com/vs65497/Swarm-Coordinated-Control)**  
 
-    Agent-based simulation exploring adjacency-driven interactions and emergent patterns.  
+    Agent-based simulation exploring adjacency-driven interactions and emergent patterns. Inspired by Jorge Cortés & Magnus Egerstedt (2017). 
   
     *Skills:* Complex systems, Python, graph modeling.

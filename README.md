@@ -44,4 +44,4 @@ I am an electrical engineer passionate about developing hardware-based approache
 
     Reproduced memory retention in a simulation of an Ag₂S nanowire network (atomic-switch network). Original work from Kuncic, et al. (2018).  
   
-    *Skills:* Graph theory, C++/Python.
+    *Skills:* Circuit theory, C++/Python.

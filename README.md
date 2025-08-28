@@ -40,7 +40,7 @@ I am an electrical engineer passionate about developing hardware-based approache
   
     *Skills:* Graph theory, Python.
 
-6. **[Emergent brain-like complexity from nanowire atomic switch networks](https://github.com/vs65497/Portfolio/#)**, 2025 (Independent reproduction study of Kuncic et al.; WIP)  
+6. **[Emergent brain-like complexity from nanowire atomic switch networks](https://github.com/vs65497/nwn/blob/main/README.md)**, 2025 (Independent reproduction study of Kuncic et al.; WIP)  
 
     Reproduced memory retention in a simulation of an Ag₂S nanowire network (atomic-switch network). Original work from Kuncic, et al. (2018).  
   
